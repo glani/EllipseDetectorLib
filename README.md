@@ -1,5 +1,5 @@
 # EllipseDetectorLib
-.Net library for Ellipse detection based on the algorithm of very fast ellipse detector, codename: YAED (Yet Another Ellipse Detector).
+.Net library for ellipse detection based on the algorithm of very fast ellipse detector, codename: YAED (Yet Another Ellipse Detector).
 
 #### What is EllipseDetectorLib ?
 Simple .Net wrapper for a very fast ellipse detection algorithm.
