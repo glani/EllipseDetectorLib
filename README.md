@@ -26,7 +26,7 @@ There are four projects:
 
 #### Build and deploy
 This library has been written in Microsoft Visual Studio 2012. Files *.csproj contain all configurations for different platforms x64, x86 as well as Debug and Release modes.
-For successfull build [OpenCV](https://github.com/opencv/opencv) ought to be installed. In addition environment variable OPENCV_DIR where opencv is installed should be set
+For successfull build [OpenCV](https://github.com/opencv/opencv) ought to be installed. In addition environment variable OPENCV_DIR where opencv is installed should be set.
 
 #### Features and Capabilities
 Here are just a few examples of what EllipseDetectorLib can do:
@@ -35,7 +35,7 @@ Here are just a few examples of what EllipseDetectorLib can do:
 #### What is YAED (Yet Another Ellipse Detector)?
 
 According to the comments in the code:
-
+--------------------------------------------------------------
 This code is intended for academic use only.
 You are free to use and modify the code, at your own risk.
 
@@ -55,3 +55,4 @@ michele.fornaciari@unimore.it
 
 last update: 23/12/2014
 
+--------------------------------------------------------------
