@@ -63,6 +63,8 @@ Release/
 target/
 build/
 ipch/
+x64/
+x86/
 *.batch
 *.class
 *.opensdf
