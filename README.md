@@ -34,7 +34,7 @@ Here are just a few examples of what EllipseDetectorLib can do:
 
 #### What is YAED (Yet Another Ellipse Detector)?
 
-According to the comments in the code:
+##### According to the comments in the code:
 --------------------------------------------------------------
 This code is intended for academic use only.
 You are free to use and modify the code, at your own risk.
