@@ -30,7 +30,7 @@ For successfull build [OpenCV](https://github.com/opencv/opencv) has to be insta
 
 #### Features and Capabilities
 Here are just a few examples of what EllipseDetectorLib can do:
-* [Samples](test-data/): A couple of files shows the initial and result images.
+* [Samples](test-data/): A dozen files shows the initial and result images.
 
 #### What is YAED (Yet Another Ellipse Detector)?
 
