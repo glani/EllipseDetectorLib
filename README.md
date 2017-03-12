@@ -7,7 +7,7 @@ Simple .Net wrapper for a very fast ellipse detection algorithm.
 #### Third party libraries
 
 It uses:
-* [Open Source Computer Vision Library](https://github.com/opencv/opencv) for image reading, processing.
+* [Open Source Computer Vision Library](https://github.com/opencv/opencv) for image reading and processing.
 
 #### The main advantage
 
@@ -26,11 +26,11 @@ There are four projects:
 
 #### Build and deploy
 This library has been written in Microsoft Visual Studio 2012. Files *.csproj contain all configurations for different platforms x64, x86 as well as Debug and Release modes.
-For successfull build [OpenCV](https://github.com/opencv/opencv) ought to be installed. In addition environment variable OPENCV_DIR where opencv is installed should be set.
+For successfull build [OpenCV](https://github.com/opencv/opencv) has to be installed. In addition environment variable OPENCV_DIR where opencv is installed should be set.
 
 #### Features and Capabilities
 Here are just a few examples of what EllipseDetectorLib can do:
-* [Samples](test-data/): A couple of images shows the initial and result images.
+* [Samples](test-data/): A couple of files shows the initial and result images.
 
 #### What is YAED (Yet Another Ellipse Detector)?
 
