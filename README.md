@@ -15,7 +15,7 @@ Real-time ellipse detection is an important yet challenging task, since the esti
 
 A new efficient ellipse detection method (Y. Xie and Q. Ji) has remained ineffective and inappropriate for realtime processing.
 
-It is suitable in programs which require an approximate ellipse detection and have to do this in realtime. 
+This library is suitable in programs which require an approximate ellipse detection and have to do this in realtime. 
 
 #### Projects
 There are four projects:
