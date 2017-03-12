@@ -13,7 +13,7 @@ It uses:
 
 Real-time ellipse detection is an important yet challenging task, since the estimation of the five parameters of an ellipse requires heavy computation.
 
-A new efficient ellipse detection method (Y. Xie and Q. Ji), has remained ineffective and inappropriate for realtime processing
+A new efficient ellipse detection method (Y. Xie and Q. Ji) has remained ineffective and inappropriate for realtime processing.
 
 It is suitable in programs which require an approximate ellipse detection and have to do this in realtime. 
 
@@ -28,10 +28,13 @@ There are four projects:
 This library has been written in Microsoft Visual Studio 2012. Files *.csproj contain all configurations for different platforms x64, x86 as well as Debug and Release modes.
 For successfull build [OpenCV](https://github.com/opencv/opencv) ought to be installed. In addition environment variable OPENCV_DIR where opencv is installed should be set
 
+#### Features and Capabilities
+Here are just a few examples of what EllipseDetectorLib can do:
+* [Samples](test-data/): A couple of images shows the initial and result images.
 
 #### What is YAED (Yet Another Ellipse Detector)?
 
-According to the comments in the code
+According to the comments in the code:
 
 This code is intended for academic use only.
 You are free to use and modify the code, at your own risk.
